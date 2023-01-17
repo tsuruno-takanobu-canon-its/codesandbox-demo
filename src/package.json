@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@material-table/core": "0.2.61",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "@types/uuid": "9.0.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest",
+    "uuid": "9.0.0",
+    "uuidjs": "4.2.12"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.0/docs/data/material/components/accordion/ControlledAccordions.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
